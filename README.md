@@ -15,3 +15,9 @@ Tools Used:
 - Incident Response Methodologies
 
 This project demonstrates foundational skills in incident analysis, threat identification, and cybersecurity documentation.
+## Author
+
+John Pichon
+
+Google Cybersecurity Professional Certificate
+CompTIA Security+ Candidate
